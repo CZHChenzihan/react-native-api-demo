@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react-native": "^0.18.0-rc",
+    "react-native-tabbar-navigator": "^0.3.0",
+    "react-native-tabs": "^0.1.10",
+    "react-native-triangle": "0.0.5",
+    "react-timer-mixin": "^0.13.3"
+  }
+}
